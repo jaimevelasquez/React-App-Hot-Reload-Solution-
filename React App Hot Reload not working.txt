@@ -1,0 +1,5 @@
+React App Hot Reload not working
+
+1. Add new file in root folder
+		FILENAME: .env
+		ADD CODE: FAST_REFRESH=false
